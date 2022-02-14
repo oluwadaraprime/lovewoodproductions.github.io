@@ -400,7 +400,7 @@
     background-attachment: fixed!important;
   }
   
-  .bg-01 { background-image: url(../images/videobg.jpg); }
+  .bg-01 { background-image: url(../images/bannerimg2.jpg); }
   .bg-02 { background-image: url(../images/bg-02.jpg); }
   .bg-03 { background-image: url(../images/bg-03.jpg); }
   .bg-04 { background-image: url(../images/bg-04.jpg); }
@@ -2739,7 +2739,7 @@
   #hero-1 {
     position: relative;
     z-index: 3;
-    background-image: url(../images/bannerimg.jpg);
+    background-image: url(../images/bannerimg2.jpg);
     padding-top: 140px;
     padding-bottom: 100px;
   }
